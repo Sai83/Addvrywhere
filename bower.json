@@ -1,0 +1,21 @@
+{
+  "name": "addvrywhere",
+  "description": "Addvrywhere company",
+  "main": "index.js",
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "../multi-page/index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angular-route": "^1.5.3",
+    "angular-aria": "^1.5.3",
+    "angular-ui-router": "^0.2.18"
+  }
+}
