@@ -1,4 +1,4 @@
-/*Theme    : narani
+/*Theme    : Addvrywhere
  * Author  : Design_mylife
  * Version : V1.1
  * 

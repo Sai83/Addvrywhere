@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Addvrywhere/.idea/Advrywhere.iml" filepath="$PROJECT_DIR$/../Addvrywhere/.idea/Advrywhere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Advrywhere.iml" filepath="$PROJECT_DIR$/.idea/Advrywhere.iml" />
     </modules>
   </component>
 </project>

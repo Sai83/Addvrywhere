@@ -964,34 +964,34 @@ ol.breadcrumb li a {
   border: 1px solid #e9e9e9;
   text-align: center; }
 
-.narani-price-title {
+.Addvrywhere-price-title {
   border-bottom: 1px solid #e9e9e9;
   padding: 15px 0;
   background: #f9f9f9;
   position: relative; }
 
-.narani-price-title h3 {
+.Addvrywhere-price-title h3 {
   margin: 0px;
   font-size: 18px;
   text-transform: uppercase;
   color: #000; }
 
-.narani-price-title h2 {
+.Addvrywhere-price-title h2 {
   font-size: 38px; }
 
-.narani-price-title sup {
+.Addvrywhere-price-title sup {
   color: #777;
   font-size: 16px;
   top: -20px; }
 
-.narani-price-title sub {
+.Addvrywhere-price-title sub {
   color: #777;
   font-size: 16px; }
 
-.narani-price-content {
+.Addvrywhere-price-content {
   padding: 20px 0; }
 
-.narani-price-content p {
+.Addvrywhere-price-content p {
   margin: 0px;
   padding: 10px 0;
   border-bottom: 1px solid #e9e9e9; }
@@ -1008,13 +1008,13 @@ span.popular-tag {
   background-color: #32c5d2;
   font-size: 10px; }
 
-.narani-price-title.popular-title {
+.Addvrywhere-price-title.popular-title {
   background-color: #333; }
 
-.narani-price-title.popular-title h2 {
+.Addvrywhere-price-title.popular-title h2 {
   color: #fff; }
 
-.narani-price-title.popular-title h3 {
+.Addvrywhere-price-title.popular-title h3 {
   color: #fff; }
 
 /************team****************/
