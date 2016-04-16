@@ -1,22 +1,24 @@
 {
   "name": "addvrywhere",
   "version": "1.0.0",
-  "description": "Addvrywhere companyt",
+  "description": "Managing address changes",
   "main": "server.js",
-  "dependencies": {
-    "bower": "^1.7.7",
-    "ejs": "^2.4.1",
-    "ejs-locals": "^1.0.2",
-    "express": "^4.13.4",
-    "jade": "^1.11.0",
-    "twilio": "^2.9.1",
-    "underscore": "^1.8.3",
-    "vash": "^0.11.2"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sai83/Addvrywhere.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sai83/Addvrywhere/issues"
+  },
+  "homepage": "https://github.com/Sai83/Addvrywhere#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  }
 }
